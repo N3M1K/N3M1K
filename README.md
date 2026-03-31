@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some websites to learn more things<br>🌱 I’m currently learning C# an JS<br>⚡ Fun fact IDGAF, and metal is good btw
+🔭 I’m currently working on some websites to learn more things<br>🌱 I’m currently learning Go and Rust<br>⚡ Fun fact IDGAF, and metal is good btw
 
 
 ## 🌐 Socials:
